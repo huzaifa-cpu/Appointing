@@ -19,4 +19,10 @@ it anytime.
 
 `Note`: for Desktop app, MSVSC should be 2019 or below.
 
+# Mobile app
+
+![demo](images/1.png)
+
+# Desktop app
+
 ![demo](images/five.png)
