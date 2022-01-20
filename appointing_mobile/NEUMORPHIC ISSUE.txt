@@ -1,0 +1,11 @@
+If you are using neumorphic ,
+
+Locate,
+
+home/.pub-cache/hosted/pub.dartlang.org/flutter_neumorphic-3.0.3/lib/src/widget/app_bar.dart
+
+Search For,
+
+final ScaffoldState scaffold = Scaffold.maybeOf(context);
+
+try to use, .maybeOf(context); instead of .of(context, nullOk: true);
