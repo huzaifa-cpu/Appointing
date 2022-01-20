@@ -21,8 +21,13 @@ it anytime.
 
 # Mobile app
 
-![demo](images/1.png)
+![demo](images/1.jpg)
+![demo](images/2.jpg)
+![demo](images/5.jpg)
+![demo](images/7.jpg)
 
 # Desktop app
 
-![demo](images/five.png)
+![demo](images/one.png)
+![demo](images/two.png)
+![demo](images/three.png)
